@@ -1,17 +1,21 @@
 basic git commands
 
-git init 
+git init : it initialise a empty git repository in that folder
 
-git status
+git status : it tells about staged and unstaged changes in the local system
 
-git log
+git log: it lists all the commits and changes made so far
 
-git commit -m "your msg here"
+git add "file name" : this will move your file from unstaged region to staged region
 
-git push
+git add . : if we want to add all files to staged region we need to write all file names
+so... what we do is we just write git add "." and it does the work for us
 
-git pull
+git commit -m "your msg here" : this is command used to commit files in staged region
 
-git push -u origin master
+git push: used to push a local repo to github
 
-git 
+git pull: used to pull a repo from github to local system
+
+git push -u origin master : pushes changes to master branch
+ 
