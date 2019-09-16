@@ -27,7 +27,7 @@ git merge branchName
 
 now if we no more need that branch
 we can delete that branch simply by typing 
-git -d "branchName"    --> this deletes only on local machine
+git branch -d "branchName"    --> this deletes only on local machine
 to delete branch from remote repo type this
 git push origin --delete branchName
 
