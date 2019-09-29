@@ -28,3 +28,5 @@ whenever you add files to staged area from unstaged region , you can write a msg
 with that so that whenever you get around , you can remember it as reference
 
 `git log`: it lists all the commits and changes made so far
+
+[move to next section](https://github.com/taran9873/GitTutorials/blob/master/res/Basics%202.md)
