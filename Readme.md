@@ -6,3 +6,5 @@
 1.[Lets start with Installing Git](https://git-scm.com/downloads)
 
 2.[lets get started](https://github.com/taran9873/GitTutorials/blob/master/res/get%20started.md)
+
+3.[basics](https://github.com/taran9873/GitTutorials/blob/master/res/Basics.md)
