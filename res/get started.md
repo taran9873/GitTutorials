@@ -3,7 +3,7 @@
 
 check if git is succesfully installed on your system or not
 
-###### search for **git bash** in your start Menu
+#### search for **git bash** in your start Menu
 launch it and terminal will pop up
 
 type following in the terminal
