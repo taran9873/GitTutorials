@@ -47,4 +47,5 @@ this will link your system GIT to remote/online GitHub
 
 hope you understood everything if not you can ping me `tarandeepsingh.tannu@gmail.com` 
 if anything is missing , happily contribute to this repository
-[move to next section]()
+
+[move to next section](https://github.com/taran9873/GitTutorials/blob/master/res/Basics.md)

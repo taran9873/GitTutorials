@@ -9,7 +9,7 @@ and keeps track of our file .
 it tells about staged and unstaged changes in the local system
 **In git there are three areas:**
 
-	  `unstaged area`       ->      `staged area`         ->  remote repository
+	  `unstaged area`      ->      `staged area`         ->  `remote repository`
  (unsaved and untracked by git)    (saved and tracked by git)        (GitHub)
 
 `git add 'file name'`:
