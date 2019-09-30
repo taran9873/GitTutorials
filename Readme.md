@@ -13,3 +13,5 @@
 4.[basics 2](https://github.com/taran9873/GitTutorials/blob/master/res/Basics%202.md)
 
 5.[Branching & merging](https://github.com/taran9873/GitTutorials/blob/master/res/Branching%20And%20merging.md)
+
+6.[advanced commands](https://github.com/taran9873/GitTutorials/blob/master/res/What%20Should%20i%20name%20this.md)

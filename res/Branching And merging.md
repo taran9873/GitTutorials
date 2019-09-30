@@ -47,3 +47,4 @@ hope u understood branching and merging if not go through above text again
 
 
 best of luck
+[next section](https://github.com/taran9873/GitTutorials/blob/master/res/What%20Should%20i%20name%20this.md)
