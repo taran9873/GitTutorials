@@ -8,4 +8,10 @@
 
 `git push -u origin master `: pushes changes to master branch
 
+### Moving files from staged area to unstaged area
+
+`git reset HEAD 'file name'` : this command will unstage our file from staged area
+
+`git reset HEAD --` : this commmand will move everything from **staged** region to **unstaged** region
+
 [now lets learn concept of Branches and Merging](https://github.com/taran9873/GitTutorials/blob/master/res/Branching%20And%20merging.md)
