@@ -16,4 +16,4 @@
 
 6.[advanced commands](https://github.com/taran9873/GitTutorials/blob/master/res/What%20Should%20i%20name%20this.md)
 
-7.[Retrieving and Reverting](https://github.com/taran9873/GitTutorials/blob/master/res/Retrieving%20Sand%20Reverting.md)
+7.[Retrieving and Reverting](https://github.com/taran9873/GitTutorials/blob/master/res/Retrieving%20and%20Reverting.md)

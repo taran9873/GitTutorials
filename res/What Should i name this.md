@@ -33,4 +33,4 @@ this will list changes in a better understoodable way i.e
 it will color the changes made to a attractive color,
 Shows changes side by side.
 
-[next section](https://github.com/taran9873/GitTutorials/blob/master/res/Retrieving%20Sand%20Reverting.md)
+[next section](https://github.com/taran9873/GitTutorials/blob/master/res/Retrieving%20and%20Reverting.md)
