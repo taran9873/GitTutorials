@@ -41,7 +41,8 @@ its a very big community , _well not more than india's population_(Don't get off
 
 now you have to link your github account to git so that you can upload/push your files on github repo
 
- `git config --global user.email "Mona Lisa"`
+ `git config --global user.email "abc@xyz.com"`
+
  `git config --global user.password "your password"`
 
 this will link your system GIT to remote/online GitHub
